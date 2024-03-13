@@ -1,6 +1,6 @@
-# GIF-Search-Website-Project
+# GIF-Search-Application-Project
 
-Welcome to the GIF Search Website! This simple web application allows users to search for GIFs using the GIPHY API and display them dynamically on the page.
+Welcome to the GIF Search Application! This simple web application allows users to search for GIFs using the GIPHY API and display them dynamically on the page.
 
 ## Features
 
@@ -36,7 +36,7 @@ Welcome to the GIF Search Website! This simple web application allows users to s
 
 ## Thank You!
 
-Thank you for taking the time to explore my GIF Search Website! I hope you found it interesting and enjoyable. Your interest and support mean a lot.
+Thank you for taking the time to explore my GIF Search Application! I hope you found it interesting and enjoyable. Your interest and support mean a lot.
 
 If you have any suggestions, feedback, or would like to contribute to the project, feel free to reach out. I appreciate your involvement and look forward to any future collaborations.
 
